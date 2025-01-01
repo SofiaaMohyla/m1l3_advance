@@ -20,6 +20,7 @@ def test_func():
     print("повідомлення: не забув виконати дз")
     print("повідомлення: це важливо!")
 
+
 @outer_function
 def sum_func(a, b):
     return  a + b
